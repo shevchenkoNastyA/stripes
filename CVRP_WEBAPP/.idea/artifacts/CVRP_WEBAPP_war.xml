@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CVRP_WEBAPP:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cvrp.war">
+      <element id="artifact" artifact-name="CVRP_WEBAPP:war exploded" />
+    </root>
+  </artifact>
+</component>

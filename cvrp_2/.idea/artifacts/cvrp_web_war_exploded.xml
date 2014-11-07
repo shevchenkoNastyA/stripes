@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cvrp_web:war exploded">
+    <output-path>$PROJECT_DIR$/cvrp_web/target/cvrp_web</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cvrp_web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cvrp_web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
